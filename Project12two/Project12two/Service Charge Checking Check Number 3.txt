@@ -1,0 +1,2 @@
+Name of recipient: 500
+Amount: $500

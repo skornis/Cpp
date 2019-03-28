@@ -1,0 +1,2 @@
+Name of recipient: Jon Smith
+Amount: $500

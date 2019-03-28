@@ -1,0 +1,9 @@
+Name: Steve
+Account Number: 55555555
+Account Type: No Service Charge Checking
+Starting Balance: $5000
+Value of Deposits: $50
+Value of Withdrawals: $250
+Number of Checks Written: 1
+Amount Withdrawn From Checks Written: $250
+Current Balance: $4550

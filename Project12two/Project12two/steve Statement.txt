@@ -1,5 +1,0 @@
-Name: steve
-Account Type: CD
-Account Number: 1235
-Original Balance: 58988
-Current Balance: 59577.9

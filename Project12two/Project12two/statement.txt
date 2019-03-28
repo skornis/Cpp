@@ -1,4 +1,0 @@
-Name: bob
-Account Number: 123
-Original Balance: 45.67
-Current Balance: 46.13
